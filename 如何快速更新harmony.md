@@ -2,7 +2,13 @@
 
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/harmony_update_001.png)
 
+<br/>批处理文件（git_update_all_repos.bat）链接：
+<br/>https://github.com/yuchengstudio/Harmony/blob/master/reference/git_update_all_repos.bat
+
 # 2.更新指定仓库
 note:虽然是更新指定仓库，同时会默认更新bsp, csp两个文件夹
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/harmony_update_002.png)
+
+<br/>批处理文件（git_update_specific_repos.bat）链接：
+<br/>https://github.com/yuchengstudio/Harmony/blob/master/reference/git_update_specific_repos.bat
 
