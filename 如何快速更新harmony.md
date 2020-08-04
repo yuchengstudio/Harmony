@@ -17,7 +17,7 @@ https://git-scm.com/downloads
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/harmony_update_003.png)
 
 <br/>批处理文件（git_update_specific_repos.bat）链接：
-<br/>https://github.com/yuchengstudio/Harmony/blob/master/reference/git_update_specific_repos.bat
+<br/>https://github.com/yuchengstudio/Harmony/blob/master/reference/git_update_specific_repos.7z
 
 
 
