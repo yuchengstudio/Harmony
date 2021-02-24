@@ -1,0 +1,30 @@
+# 1.harmony 培训教程
+https://github.com/yuchengstudio/Harmony/blob/master/reference/MPLAB%20Harmony3%20-%20Fundamentals.pdf
+
+# 2.harmony 开发环境的搭建
+https://github.com/yuchengstudio/Harmony/blob/master/reference/MPLAB%C2%AE%20Harmony%203%E4%B9%8B%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%8801%EF%BC%89%20--%20Harmony%203%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.pdf
+
+# 3.如何快速找到demo例程
+https://github.com/yuchengstudio/Harmony/blob/master/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%89%BE%E5%88%B0example.md
+
+# 4.关注公众号“PICFans”获取丰富harmony使用教程
+在微信公众号添加“PICFans”公众号。
+
+# 5.基于harmony的教学视频
+https://list.youku.com/albumlist/show/id_52489422
+
+# 6.常用开发板资料
+## 6.1 ATSAME54_XPRO
+https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAME54-XPRO
+
+## 6.2 ATSAMD21-XPRO
+https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAMD21-XPRO
+
+## 6.3 ATSAMC21-XPRO
+https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAMC21N-XPRO
+
+## 6.4 ATSAML21-XPRO
+https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAML21-XPRO-B
+
+## 6.5 ATSAME70-XPLD
+https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAME70-XPLD
