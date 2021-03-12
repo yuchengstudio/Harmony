@@ -13,7 +13,9 @@ https://github.com/yuchengstudio/Harmony/blob/master/%E5%A6%82%E4%BD%95%E5%BF%AB
 
 
 # 4.关注公众号“PICFans”获取丰富harmony使用教程
-在微信公众号添加“PICFans”公众号。
+<br/>在微信公众号添加“PICFans”公众号。
+<br/>也可以使用如下链接直接访问：
+<br/>https://mp.weixin.qq.com/s/TGlWfJJB3glWP2NWt3Ft7w
 
 # 5.基于harmony的教学视频
 https://list.youku.com/albumlist/show/id_52489422
