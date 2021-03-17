@@ -12,10 +12,17 @@ https://github.com/yuchengstudio/Harmony/blob/master/reference/MPLAB%C2%AE%20Har
 https://github.com/yuchengstudio/Harmony/blob/master/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%89%BE%E5%88%B0example.md
 
 
-# 4.关注公众号“PICFans”获取丰富harmony使用教程
+# 4.教学文档
+# 4.1 关注公众号“PICFans”获取丰富harmony使用教程
 <br/>在微信公众号添加“PICFans”公众号。
 <br/>也可以使用如下链接直接访问：
 <br/>https://mp.weixin.qq.com/s/TGlWfJJB3glWP2NWt3Ft7w
+
+# 4.2 在麦博士论坛获取丰富学习资料
+www.microchip.com.cn/newcommunity/index.php?m=Knowledge&a=index&id=172
+
+# 4.3 在21ic论坛找到相关资源
+https://bbs.21ic.com/microchip
 
 # 5.基于harmony的教学视频
 https://list.youku.com/albumlist/show/id_52489422
