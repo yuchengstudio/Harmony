@@ -34,7 +34,7 @@ https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAME54-XPRO
 ## 6.2 ATSAMD21-XPRO
 https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAMD21-XPRO
 
-## 6.3 ATSAMC21-XPRO
+## 6.3 ATSAMC21N-XPRO
 https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATSAMC21N-XPRO
 
 ## 6.4 ATSAML21-XPRO
