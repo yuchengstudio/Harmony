@@ -7,6 +7,9 @@ https://github.com/yuchengstudio/Harmony/blob/master/reference/MPLAB%C2%AE%20Har
 注意：
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/harmony_guider_001.png)
 
+# 2.1 如何使用MHC来创建IAR或Keil项目
+http://www.microchip.com.cn/newcommunity//Uploads/H3_Chinese_guides/guide-31.pdf
+
 
 # 3.如何快速找到demo例程
 https://github.com/yuchengstudio/Harmony/blob/master/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%89%BE%E5%88%B0example.md
