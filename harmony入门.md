@@ -1,7 +1,8 @@
 # 1.harmony 培训教程
 https://github.com/yuchengstudio/Harmony/blob/master/reference/MPLAB%20Harmony3%20-%20Fundamentals.pdf
 
-# 2.harmony 开发环境的搭建
+# 2.开发环境篇
+# 2.1 harmony 开发环境的搭建
 https://github.com/yuchengstudio/Harmony/blob/master/reference/MPLAB%C2%AE%20Harmony%203%E4%B9%8B%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%8801%EF%BC%89%20--%20Harmony%203%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.pdf
 
 注意：
