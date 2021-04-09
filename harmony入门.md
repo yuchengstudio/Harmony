@@ -16,7 +16,8 @@ https://www.java.com/zh-CN/download/manual.jsp
 
 
 # 2.3如何本地安装MHC
-https://github.com/Microchip-MPLAB-Harmony/mplabx-plugin/releases,下载源码，点击com-microchip-mplab-modules-mh3.nbm可以直接安装。
+链接：https://github.com/Microchip-MPLAB-Harmony/mplabx-plugin/releases
+下载源码，点击com-microchip-mplab-modules-mh3.nbm可以直接安装。
 
 
 # 3.如何快速找到demo例程
