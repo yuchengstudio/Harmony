@@ -15,6 +15,10 @@ http://www.microchip.com.cn/newcommunity//Uploads/H3_Chinese_guides/guide-31.pdf
 https://www.java.com/zh-CN/download/manual.jsp
 
 
+# 2.3如何本地安装MHC
+https://github.com/Microchip-MPLAB-Harmony/mplabx-plugin/releases,下载源码，点击com-microchip-mplab-modules-mh3.nbm可以直接安装。
+
+
 # 3.如何快速找到demo例程
 https://github.com/yuchengstudio/Harmony/blob/master/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%89%BE%E5%88%B0example.md
 
