@@ -14,7 +14,7 @@ http://www.microchip.com.cn/newcommunity//Uploads/H3_Chinese_guides/guide-31.pdf
 # 2.2 如果发现直接点击runmhc启动直接闪退，请使用命令行方式启动
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/command%20_runmhc_001.png)
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/command%20_runmhc_002.PNG)
-
+![image](https://github.com/yuchengstudio/Harmony/blob/master/reference/command%20_runmhc_003.PNG)
 
 
 # 2.3如果发现MHC启动异常，请更新java
