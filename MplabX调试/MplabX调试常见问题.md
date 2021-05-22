@@ -8,4 +8,4 @@
 ![image](https://github.com/yuchengstudio/Harmony/blob/master/MplabX%E8%B0%83%E8%AF%95/reference/device_pack_update.png)
 
 # 1.2.2 工具安装包
-![image](https://github.com/yuchengstudio/Harmony/blob/master/MplabX%E8%B0%83%E8%AF%95/reference/device_pack_update.png)
+![image](https://github.com/yuchengstudio/Harmony/blob/master/MplabX%E8%B0%83%E8%AF%95/reference/tools_pack_update.png)
